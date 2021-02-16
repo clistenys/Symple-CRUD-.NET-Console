@@ -1,0 +1,16 @@
+C:\Users\Clistenys\Codes\CRUD\bin\Debug\net5.0\CRUD.exe
+C:\Users\Clistenys\Codes\CRUD\bin\Debug\net5.0\CRUD.deps.json
+C:\Users\Clistenys\Codes\CRUD\bin\Debug\net5.0\CRUD.runtimeconfig.json
+C:\Users\Clistenys\Codes\CRUD\bin\Debug\net5.0\CRUD.runtimeconfig.dev.json
+C:\Users\Clistenys\Codes\CRUD\bin\Debug\net5.0\CRUD.dll
+C:\Users\Clistenys\Codes\CRUD\bin\Debug\net5.0\ref\CRUD.dll
+C:\Users\Clistenys\Codes\CRUD\bin\Debug\net5.0\CRUD.pdb
+C:\Users\Clistenys\Codes\CRUD\obj\Debug\net5.0\CRUD.csprojAssemblyReference.cache
+C:\Users\Clistenys\Codes\CRUD\obj\Debug\net5.0\CRUD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Clistenys\Codes\CRUD\obj\Debug\net5.0\CRUD.AssemblyInfoInputs.cache
+C:\Users\Clistenys\Codes\CRUD\obj\Debug\net5.0\CRUD.AssemblyInfo.cs
+C:\Users\Clistenys\Codes\CRUD\obj\Debug\net5.0\CRUD.csproj.CoreCompileInputs.cache
+C:\Users\Clistenys\Codes\CRUD\obj\Debug\net5.0\CRUD.dll
+C:\Users\Clistenys\Codes\CRUD\obj\Debug\net5.0\ref\CRUD.dll
+C:\Users\Clistenys\Codes\CRUD\obj\Debug\net5.0\CRUD.pdb
+C:\Users\Clistenys\Codes\CRUD\obj\Debug\net5.0\CRUD.genruntimeconfig.cache
